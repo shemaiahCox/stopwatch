@@ -39,4 +39,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Preview
 
-Live version deployed via [Netlify](<< add link >>).
+Live version deployed via [Netlify](https://stopwatch-f267a0.netlify.app/).
