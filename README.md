@@ -12,14 +12,7 @@ Not yet identified.
 
 ## Caveats
 
-This is a practice portfolio project so the following applies;
-
 - Only tested on Chrome Version 111.0.5563.146
-- May not adhere to all principles of;
-
-  - Accessibility 
-  - Mobile first design
-  - Performance optimisation
 
 ## Main Stories
 
